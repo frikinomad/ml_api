@@ -1,0 +1,1 @@
+Add your own client id and client secret in .env.example file and then rename it to .env
